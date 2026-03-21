@@ -17,9 +17,9 @@
 ```yaml
 name      : Srieevardhan
 location  : India 🇮🇳
-role      : Developer | Data Analyst | ML Enthusiast
+role      : Data Analyst
 currently : Building data-driven applications & web projects
-learning  : Machine Learning, Data Science, Full-Stack Dev
+learning  : Machine Learning, Data Science
 hobbies   : Coding, Data Analysis, Problem Solving
 ```
 
