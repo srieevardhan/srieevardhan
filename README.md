@@ -249,7 +249,7 @@ hobbies   : Coding, Data Analysis, Problem Solving
 
 | 📧 Email | 📱 Mobile | 💼 LinkedIn | 🐙 GitHub |
 |:---:|:---:|:---:|:---:|
-| [srieevardhan@gmail.com](mailto:srieevardhan@gmail.com) | +91 XXXXXXXXXX | [LinkedIn](https://www.linkedin.com/in/srieevardhan) | [GitHub](https://github.com/srieevardhan) |
+| [srieevardhan@gmail.com](mailto:srieevardhan@gmail.com) | +91 9342149560 | [LinkedIn](https://www.linkedin.com/in/srieevardhan) | [GitHub](https://github.com/srieevardhan) |
 
 <br/>
 
