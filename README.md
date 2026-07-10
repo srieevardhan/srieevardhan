@@ -76,8 +76,6 @@ hobbies   : Coding, Data Analysis, Problem Solving
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white"/>
 </p>
-</tr>
-<tr>
 </td>
     <td width="50%">
     <h3 align="center">📈 Sales Dashboard Analysis</h3>
@@ -112,8 +110,6 @@ hobbies   : Coding, Data Analysis, Problem Solving
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       </p>
     </td>
-    </tr>
-    <tr>
     <td width="50%">
       <h3 align="center">📊 Statistical Summary</h3>
       <p align="center">
