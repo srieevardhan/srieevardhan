@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srieevardhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srieevardhan%20S%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -18,8 +18,8 @@
 name      : Srieevardhan
 location  : India 🇮🇳
 role      : Data Analyst
-currently : Building data-driven applications & web projects
-learning  : Machine Learning, Data Science
+currently : Building data Analstics Projects 
+learning  : Excel,Power BI,SQL
 hobbies   : Coding, Data Analysis, Problem Solving
 ```
 
@@ -32,10 +32,7 @@ hobbies   : Coding, Data Analysis, Problem Solving
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 **Data Science & ML**
 
@@ -43,14 +40,15 @@ hobbies   : Coding, Data Analysis, Problem Solving
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-5A9BD5?style=for-the-badge&logo=python&logoColor=white)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
@@ -61,6 +59,40 @@ hobbies   : Coding, Data Analysis, Problem Solving
 <div align="center">
 <table>
   <tr>
+    <td width="50%">
+    <h3 align="center">🤖 M.I.L.O</h3>
+
+<p align="center">
+  <a href="https://github.com/srieevardhan/Milo" target="_blank">
+    <img src="https://img.shields.io/badge/View_Project-6AD3F7?style=for-the-badge&logo=github&logoColor=black" alt="M.I.L.O"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>M.I.L.O (Managing Information & Lifestyle Optimizer)</strong> is an offline AI desktop assistant that helps users manage tasks, reminders, schedules, notes, and daily productivity while ensuring privacy through local data processing.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+</p>
+    <td width="50%">
+    <h3 align="center">📈 Sales Dashboard Analysis</h3>
+
+<p align="center">
+  <a href="https://github.com/srieevardhan/Sales_Dashboard_analysis" target="_blank">
+    <img src="https://img.shields.io/badge/View_Project-6AD3F7?style=for-the-badge&logo=github&logoColor=black" alt="Sales Dashboard Analysis"/>
+  </a>
+</p>
+
+<p align="center">
+  Interactive <strong>Power BI Sales Dashboard</strong> that analyzes sales performance, revenue, profit, customer trends, and regional insights using interactive visualizations.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+</p>
     <td width="50%">
       <h3 align="center">🤖 ML Project</h3>
       <p align="center">
